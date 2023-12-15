@@ -1,1 +1,1 @@
-web: gunicorn 'drfsite.wsgi'
+web: gunicorn 'drfsite.drfsite.wsgi'
