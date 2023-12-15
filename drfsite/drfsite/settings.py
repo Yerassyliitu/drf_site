@@ -86,11 +86,11 @@ DATABASES = {
 
         'USER': 'postgres',
 
-        'PASSWORD': 'ag2Bd5*gf-EA5-Df42-C6-c6gB-FF*6F',
+        'PASSWORD': '3aGcdc414cBGECe*C*b-112-c-G*1bbE',
 
         'HOST': 'viaduct.proxy.rlwy.net',
 
-        'PORT': '27914',
+        'PORT': '38451',
 
     }
 }
